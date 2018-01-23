@@ -1,0 +1,59 @@
+/**
+ * index.scss
+ * - Add any styles you want here!
+ */
+#RandomQuote{
+  border:0.5px solid;
+	width:800px;
+	height:350px;	
+	padding:10px;
+  margin:10% auto;
+}
+#generate{
+	width:200px;
+	height:50px;		
+  margin: 20% auto;
+}
+
+body{
+  background-color: blue;
+}
+h2{
+  text-align : center;
+}
+p{
+  color: blue;
+  font-size:20px;
+}
+.footer{
+	width:400px;
+  text-align:center;
+  display:block;
+  margin:0px auto 30px auto;
+  font-size:12px;
+  color:red;
+	}
+
+.fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 30px;
+  hight: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+#button{
+  align:right;
+  background:green;
+  color: white;
+}
+
